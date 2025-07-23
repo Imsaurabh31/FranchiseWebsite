@@ -35,7 +35,7 @@ const About = () => {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.5, delay: 0.4 }}
             >
-              <h2>ABC – Certified Vedic Maths Educator</h2>
+              <h2>ABC – Certified Vedic Maths Educator</h2><!-- Updated profile -->
               <p>With over X years of experience in teaching Vedic Mathematics, ABC has helped thousands of students overcome math anxiety and develop a love for numbers.</p>
               <p>As a certified educator under the guidance of Neeraj Gaur, ABC brings authentic Vedic Math techniques to students of all ages.</p>
             </motion.div>
